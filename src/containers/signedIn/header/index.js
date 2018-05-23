@@ -53,6 +53,7 @@ class APPHeader extends Component {
 					]
 				})
 			);
+			this.setState({ stackLenght: 1 });
 		});
 	}
 
